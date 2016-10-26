@@ -1,0 +1,1 @@
+This was a homework assignment were we watched Mel's video of creating a crystal ball app which focused on JSON and jQuery
